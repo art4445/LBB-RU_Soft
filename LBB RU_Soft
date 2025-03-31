@@ -2775,10 +2775,10 @@ currentText2 = Color3.new(0, 0, 0)
 currentScroll = Color3.fromRGB(78,78,79)
 
 defaultsettings = {
-	prefix = ';';
+	prefix = '';
 	StayOpen = false;
 	espTransparency = 0.3;
-	keepIY = true;
+	keepIY = false;
 	logsEnabled = false;
 	jLogsEnabled = false;
 	aliases = {};
